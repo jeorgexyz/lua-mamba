@@ -1,0 +1,7 @@
+$ lua54 main.lua mamba-130m.lmb tokenizer.lmt 'Mamba is' 30 0
+
+Lua Mamba - pure Lua Mamba-1 inference
+d_model=768 d_inner=1536 d_state=16 layers=24 vocab=50277
+recurrent cache: 737280 floats (constant with context length)
+Mamba is a very popular and popularly used game in the Philippines. It is a game that is played by a group of people who are all very good at
+75.26s

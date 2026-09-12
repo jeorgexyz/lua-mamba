@@ -1,0 +1,7 @@
+*.lmb
+*.lmt
+*.pyc
+*.ref
+.venv/
+__pycache__/
+reference.ref

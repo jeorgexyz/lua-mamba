@@ -1,0 +1,7 @@
+$ lua54 main.lua mamba-130m.lmb tokenizer.lmt 'The key idea behind state space models is' 30 0
+
+Lua Mamba - pure Lua Mamba-1 inference
+d_model=768 d_inner=1536 d_state=16 layers=24 vocab=50277
+recurrent cache: 737280 floats (constant with context length)
+The key idea behind state space models is that they are a way to model the state of a system in a way that is consistent with the state of the system at any given time. In
+83.63s
